@@ -1,6 +1,9 @@
 
 # React Starter Kit
 
+<a href="https://github.com/kriasoft/react-starter-kit/stargazers"><img src="https://img.shields.io/github/stars/heyitsvajid/react-starter-kit.svg?style=social&label=Star&maxAge=3600" height="20"></a>
+<a href="https://twitter.com/heyitsvajid"><img src="https://img.shields.io/twitter/follow/heyitsvajid.svg?style=social&label=Follow&maxAge=3600" height="20"></a>
+
 This starter kit provides you with the code and conventions you need to get straight into building your React/Redux based app.
 
 
@@ -29,11 +32,8 @@ Awesome, you've got a ready-to-customise application!
 
 
 ## The provided boilerplate is powered by the following technology stack:
--  [x]  [React](https://facebook.github.io/react/) and [JSX](https://facebook.github.io/jsx/) — a virtual DOM JavaScript library for rendering UI. It's about rendering view as a function of state, making JavaScript-driven UI declarative the way HTML is declarative.
--  [x]  [Redux](http://redux.js.org/) — an incredibly simple way of modelling your data app state, with great community support
--  [x]  [npm](https://www.npmjs.com/) — package manager and task runner
--  [x]  [ESLint](http://eslint.org/docs/user-guide/configuring) — reporter for syntax and style issues
--  [x]  [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react) & [eslint-plugin-flowtype](https://github.com/gajus/eslint-plugin-flowtype) — additional React/Flow type specific linting rules for ESLint
+- [React](https://reactjs.org/), [Babel](https://babeljs.io/), [ESLint](https://eslint.org/), [Prettier](https://prettier.io/), [Jest](https://jestjs.io/),
+  [Webpack v5](https://webpack.js.org/), [Storybook](https://storybook.js.org/), [Husky](https://typicode.github.io/husky/#/)
 
 
 ## Getting Started
@@ -109,3 +109,22 @@ Awesome, you've got a ready-to-customise application!
 -  `validate`: To run prettier, eslint and unit tests with one command
 
 -  `format`: To format the files based on ES6 standard
+
+
+## How to Contribute
+
+Anyone and everyone is welcome to [contribute](.github/CONTRIBUTING.md). Start
+by checking out the list of [open issues](https://github.com/heyitsvajid/react-starter-kit/issues)
+marked [help wanted](https://github.com/heyitsvajid/react-starter-kit/issues?q=label:"help+wanted").
+However, if you decide to get involved, please take a moment to review the
+[guidelines](.github/CONTRIBUTING.md).
+
+## License
+
+Copyright © 2021-present heyitsvajid. This source code is licensed under the MIT license found in the
+[LICENSE](https://github.com/heyitsvajid/react-starter-kit/blob/main/LICENSE) file.
+
+---
+
+<sup>Made with ♥ by Vajid Kagdi ([@heyitsvajid](https://twitter.com/heyitsvajid), [blog](https://heyitsvajid.hashnode.dev/))
+and [contributors](https://github.com/heyitsvajid/react-starter-kit/graphs/contributors).</sup>
