@@ -1,7 +1,7 @@
 
 # React Starter Kit
 
-<a href="https://github.com/kriasoft/react-starter-kit/stargazers"><img src="https://img.shields.io/github/stars/heyitsvajid/react-starter-kit.svg?style=social&label=Star&maxAge=3600" height="20"></a>
+<a href="https://github.com/h/react-starter-kit/stargazers"><img src="https://img.shields.io/github/stars/heyitsvajid/react-starter-kit.svg?style=social&label=Star&maxAge=3600" height="20"></a>
 <a href="https://twitter.com/heyitsvajid"><img src="https://img.shields.io/twitter/follow/heyitsvajid.svg?style=social&label=Follow&maxAge=3600" height="20"></a>
 
 This starter kit provides you with the code and conventions you need to get straight into building your React/Redux based app.
